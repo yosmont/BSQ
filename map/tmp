@@ -1,0 +1,7 @@
+PING google.fr(par21s06-in-x03.1e100.net (2a00:1450:4007:813::2003)) 56 data bytes
+64 bytes from par21s06-in-x03.1e100.net (2a00:1450:4007:813::2003): icmp_seq=1 ttl=56 time=36.4 ms
+
+--- google.fr ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 36.425/36.425/36.425/0.000 ms
+lun. déc. 25 13:27:43 CET 2017
